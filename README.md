@@ -1,16 +1,7 @@
-# agecalculator
+This is a simple age calculator app in which you can calculate age in year days months hours minutes etc. 
+<br>
+User can also get the number of days remaining for  next birthday.
+<br>
+User can save the date with the name in favourites .Only unique names can be saved and user can also delete it . I have used Shared Preferences package of flutter to store name and date.
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
